@@ -15,3 +15,9 @@ It sets up Google Drive paths, creates **empty labels for non-tumor images**, bu
 3. Set your Google Drive base path:
    ```python
    base_path = '/content/drive/MyDrive/yolov7_tumor_segmentation'
+   ## ✍️ Author
+**Shaghayegh Khalighiyan**  
+- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/<your-handle>/  
+- GitHub: https://github.com/Shaghayegh35
+
