@@ -17,7 +17,7 @@ It sets up Google Drive paths, creates **empty labels for non-tumor images**, bu
    base_path = '/content/drive/MyDrive/yolov7_tumor_segmentation'
    ## ✍️ Author
 **Shaghayegh Khalighiyan**  
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/<your-handle>/  
+- Email: khaliqianshaqayeq@gmail.com
+- LinkedIn: www.linkedin.com/in/shaghayegh-khalighiyan-493155199 
 - GitHub: https://github.com/Shaghayegh35
 
