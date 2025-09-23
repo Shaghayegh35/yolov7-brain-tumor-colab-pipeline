@@ -1,5 +1,17 @@
 # YOLOv7 – Brain Tumor Detection (Google Colab Pipeline)
 
+yolov7_tumor_segmentation/
+├── train/
+│   ├── images/   # training images (.jpg/.png)
+│   └── labels/   # YOLO .txt files (same base filename as image)
+├── validation/
+│   ├── images/
+│   └── labels/
+└── test/
+    ├── images/
+    └── labels/
+
+
 This repository contains a **Google Colab** script that trains, evaluates, and runs inference using **YOLOv7** on the **Figshare Brain Tumor Dataset** (Kaggle mirror).  
 It sets up Google Drive paths, creates **empty labels for non-tumor images**, builds a dataset config, downloads pretrained weights, and then runs **train → test → detect**. Finally, it displays a few prediction images in-notebook.
 
