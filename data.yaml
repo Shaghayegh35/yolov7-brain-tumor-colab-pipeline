@@ -1,0 +1,12 @@
+# data.yaml for Brain Tumor Segmentation with YOLOv5
+
+# Paths
+train: /content/drive/MyDrive/yolov7_tumor_segmentation/train/images
+val: /content/drive/MyDrive/yolov7_tumor_segmentation/validation/images
+test: /content/drive/MyDrive/yolov7_tumor_segmentation/test/images   # optional
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['tumor']
