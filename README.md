@@ -2,7 +2,7 @@
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Shaghayegh35/yolov5-brain-tumor-colab-pipeline/blob/main/colab_yolov5_tumor.ipynb)
+https://colab.research.google.com/github/Shaghayegh35/yolov7-brain-tumor-colab-pipeline/blob/main/colab_yolov7_tumor.ipynb)
 
 
 yolov7_tumor_segmentation/
